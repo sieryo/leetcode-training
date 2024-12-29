@@ -2,6 +2,7 @@ use problem::roman_to_int;
 
 
 pub mod problem;
+pub mod data_type;
 
 
 fn run() -> () {
